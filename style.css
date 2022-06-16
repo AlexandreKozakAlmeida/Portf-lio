@@ -167,7 +167,6 @@ hr {
   width: auto;
   border-radius: 50rem;
   height: 23vh;
-
 }
 
 .descriptionWrapper {
@@ -213,7 +212,6 @@ hr {
 
 #projects ul li {
   width: 6rem;
- 
 }
 
 .myProjectsWrapper h4 {
@@ -257,7 +255,6 @@ hr {
      align-items: center;
      justify-items: center;
      text-align: center;
-   
 } 
 
 .myProjectsWrapper footer a {
@@ -272,6 +269,11 @@ hr {
   transition: .7s;
 }
 
+.myProjectsWrapper footer p {
+  margin-top: 1rem;
+}
+
+
 /*********** CONTACTS SECTION ********/
 
 #contacts {
@@ -282,7 +284,7 @@ hr {
   gap: 2rem;
   background: var(--primary-background);
   color: var(--secondary-background);
-  height: 52vh;
+  height: 70vh;
  
 }
 
@@ -314,7 +316,7 @@ hr {
   justify-content: space-evenly;
   text-align: center;
   font-size: 1.6rem;
-  gap: 2rem;
+  gap: 1.3rem;
 }
 
 #contacts .contactWrapper div:nth-child(1) {
