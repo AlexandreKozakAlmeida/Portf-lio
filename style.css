@@ -549,11 +549,9 @@ footer {
 
 
 
-@media screen and (min-width: 769px)  {
+@media screen and (min-width: 769px) and (max-width: 1279px) {
 
-
-
-/*************** WELCOME MAIN ******/
+  /*************** WELCOME MAIN ******/
 #pageHeader {
   display: flex;
  flex-wrap: nowrap;
@@ -715,3 +713,167 @@ footer {
 
 }
 
+@media screen and (min-width: 1280px) {
+  #pageHeader {
+    display: flex;
+   flex-wrap: nowrap;
+    justify-content: space-between;
+  }
+  
+  #pageHeader .brand {
+    margin-left: 1rem;
+    font-size: 1.5rem;
+  }
+  
+  #nav {
+    width: 28vw;
+    display: flex;
+    margin-right: 1rem;
+  }
+  
+  #pageHeader nav ul {
+    display: flex;
+    justify-content: space-evenly;
+    width: 46vw;
+    margin-top: 0rem;
+  }
+  
+    /*************** WELCOME MAIN **********/
+  
+    #welcome {
+      display: flex;
+      justify-content: flex-end;
+      justify-content: space-evenly;
+      height: 86vh;
+    }
+  
+    #welcome header {
+      margin-top: 3rem;
+      font-size: 2rem;
+    }
+      
+      .welcomeWrapper {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        text-align: center;
+        gap: none;
+      }
+     
+      .welcomeDescription {
+        width: 55vw;
+        margin-top: 3rem;
+        font-size: 2.6rem;
+      
+      }
+    
+      #welcome img {
+        margin-right: 2rem;
+        width: 36vw;
+        height: auto;
+      
+      }
+  
+      /******** ABOUT SECTION *******/
+  
+      #aboutMe {
+         height: 100vh;
+         display: flex;
+         flex-direction: column;
+         justify-content: flex-start;
+  }
+  
+      #aboutMe header {
+        font-size: 2.4rem;
+        margin-bottom: 2rem;
+  }
+
+  .descriptionWrapper .descriptionImage {
+    width: 24vw;
+  }
+  
+     .descriptionWrapper {
+        display: flex;
+        flex-direction: row;
+       
+       margin-top: 5rem;
+       font-size: 2.2rem;
+   }
+  
+    #aboutMe .descriptionWrapper .descriptionImage {
+      height: 28vw;
+      width: auto;
+    }
+  
+   
+   /************* PROJECTS SECTION **************/
+  
+    .myProjectsWrapper {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 6rem
+    }
+  
+    .myProjectsWrapper div {
+      width: 45rem;
+    }
+  
+    .myProjectsWrapper video {
+      width: 45rem;
+      margin-bottom: 3rem;
+      margin-top: 3rem;
+    }
+  
+    .myProjectsWrapper img {
+      width: 45rem;
+      margin-top: 3rem;
+      margin-bottom: 2.8rem;
+    }
+  
+    .myProjectsWrapper .doctor footer {
+      margin-top: .8rem;
+    }
+  
+    .myProjectsWrapper p {
+      font-size: 1.7rem;
+    }
+  
+    /************** CONTACT SECTION *******/
+  
+    .contactWrapper {
+      align-items: center;
+    }
+  
+    #contacts .contactWrapper div {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      font-size: 1.6rem;
+     width: 93vw;
+    }
+  
+    #contacts .contactWrapper div:nth-child(1) {
+      flex-direction: row;
+      justify-content: space-between;
+     
+    }
+    
+    #contacts .contactWrapper div:nth-child(2) {
+      flex-direction: row;
+      justify-content: space-between;
+    
+    }
+    
+    #contacts .contactWrapper div:nth-child(3) {
+      flex-direction: row;
+      justify-content: space-between;
+      
+    }
+  
+  #contacts .contactWrapper .arrowContact {
+    display: block;
+  }
+}
