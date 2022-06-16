@@ -492,6 +492,10 @@ footer {
   width: 25rem;
  }
 
+ .myProjectsWrapper .sweetCandy footer {
+  margin-top: 2.6rem;
+ }
+
  .myProjectsWrapper footer {
   flex-wrap: wrap;
  }
@@ -660,7 +664,11 @@ footer {
   .myProjectsWrapper img {
     width: 45rem;
     margin-top: 3rem;
-    margin-bottom: 3rem;
+    margin-bottom: 2.8rem;
+  }
+
+  .myProjectsWrapper .doctor footer {
+    margin-top: .8rem;
   }
 
   .myProjectsWrapper p {
