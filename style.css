@@ -789,7 +789,8 @@ footer {
   }
 
   .descriptionWrapper .descriptionImage {
-    width: 24vw;
+    height: 24vh;
+    width: auto;
   }
   
      .descriptionWrapper {
