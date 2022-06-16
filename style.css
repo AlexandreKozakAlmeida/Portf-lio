@@ -104,7 +104,7 @@ height: 74vh;
   cursor: pointer;
 }
 
-hr {
+.welcomeWrapper .welcomeAnimation hr {
   animation: line 1.5s infinite;
   animation-delay: .2s;
  margin-bottom:-.3rem;
