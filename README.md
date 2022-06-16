@@ -22,5 +22,5 @@ O que aprendi com a execução?
 
 Esse é o resultado final do projeto?
 
-*Temporariamente sim: Conforme eu for evoluindo e aprimorando meu conhecimemnto e tecnicas com o passar do tempo, meu portfólio também passará por essas mudanças. Pretendo fazer com que esse projeto evolua junto comigo, me acompanhando pelo caminho que eu for traçando na minha jornada como Dev.
+* Temporariamente sim: Conforme eu for evoluindo e aprimorando meu conhecimemnto e tecnicas com o passar do tempo, meu portfólio também passará por essas mudanças. Pretendo fazer com que esse projeto evolua junto comigo, me acompanhando pelo caminho que eu for traçando na minha jornada como Dev.
 
