@@ -12,7 +12,7 @@ Projeto realizado com:
 
 Qual o maior desafio desse projeto?
 
-A responsividade, essa questão exigiu muito do pensamento em como distribuir cada elemento da melhor maneira que eu conseguia fazer de acordo com o tamanho de cada dispositivo.
+A responsividade. Essa questão exigiu muito do pensamento em como distribuir cada elemento da melhor maneira que eu conseguia fazer de acordo com o tamanho de cada dispositivo.
 
 O que aprendi com a execução?
 
