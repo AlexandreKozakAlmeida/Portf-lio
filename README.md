@@ -1,6 +1,6 @@
 # Portfólio
 
-##Bem vindos ao meu porfólio:
+## Bem vindos ao meu porfólio:
 
 Esse projeto foi criado com a intenção real e ser um cartão de demonstração de projetos que eu consigo realizar. 
 Aqui estão armazenados alguns projetos que mais me fizeram crescer de alguma maneira, seja a minha técnica, a lógica ou criatividade. Além de ter esses projetos também é mostrado os meus objetivos tanto profissionais quanto pessoais, e também contém todos os meios de contatos.
