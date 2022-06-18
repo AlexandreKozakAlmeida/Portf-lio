@@ -789,8 +789,9 @@ footer {
   }
 
   #aboutMe .descriptionWrapper .descriptionImage {
-    height: 22vh;
+    height: 30vh;
     width: auto;
+    margin-right: 4rem;
   }
   
      .descriptionWrapper {
