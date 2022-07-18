@@ -1,5 +1,7 @@
 # Portfólio
 
+Acesse meu portfólio: https://alexandrekozakalmeida.github.io/Portfolio/
+
 ## Bem vindos ao meu porfólio:
 
 Esse projeto foi criado com a intenção real e ser um cartão de demonstração de projetos que eu consigo realizar. 
